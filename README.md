@@ -336,7 +336,7 @@ int main(){
 }
 
 ~~~
-#output:
+# Output:
 <img width="509" height="386" alt="image" src="https://github.com/user-attachments/assets/4d0b5ee2-a136-4604-8207-15c8699eb28b" />
 
 # Result:
